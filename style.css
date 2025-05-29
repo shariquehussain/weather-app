@@ -1,6 +1,6 @@
 /*
-032319
-5b548a
+c4d5d0
+3f3e47
 */
 * {
     margin: 0;
@@ -14,7 +14,7 @@ body {
 .card{
     width: 90%;
     max-width: 470px;
-    background: linear-gradient(135deg, #032319, #0d0831);
+    background: linear-gradient(135deg, #c4d5d0, #3f3e47);
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
