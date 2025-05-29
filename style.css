@@ -1,3 +1,7 @@
+/*
+032319
+5b548a
+*/
 * {
     margin: 0;
     padding: 0;
@@ -5,18 +9,19 @@
     box-sizing: border-box;
 }
 body {
-    background-color: #222;
+    background-color:  rgba(231, 241, 240, 0.96);
 }
 .card{
     width: 90%;
     max-width: 470px;
-    background: linear-gradient(135deg, #00feba, #5b548a);
+    background: linear-gradient(135deg, #032319, #0d0831);
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
     padding: 40px 35px;
     text-align: center;
 }
+
 .search {
     width: 100%;
     display: flex;
